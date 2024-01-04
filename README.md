@@ -38,8 +38,8 @@ This Habit-Tracking Web Application is designed to help users maintain and track
 
 ### Screenshot
 
-![](.screenShots/1.png)
-![](.screenShots/2.png)
+![](screenShots/1.png)
+![](screenShots/2.png)
 
 ## Setup and Installation
 
