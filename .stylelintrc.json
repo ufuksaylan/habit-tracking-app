@@ -1,0 +1,4 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-standard-vue"],
+  "customSyntax": "postcss-html"
+}

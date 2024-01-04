@@ -1,0 +1,29 @@
+:root {
+  --bg-color: #202020;
+  --main-color: #91170c;
+  --caret-color: #c58940;
+  --sub-color: #847869;
+  --sub-alt-color: #272727;
+  --text-color: #fae1c3;
+  --text-color-hvr: #f3d7b6;
+  --error-color: #bb1e10;
+  --error-extra-color: #791717;
+  --colorful-error-color: #c5da33;
+  --colorful-error-extra-color: #849224;
+  --font: 'Roboto Mono', 'Roboto Mono', 'Vazirmatn';
+}
+
+body {
+  overflow-x: hidden;
+  color: var(--text-color);
+  background: var(--bg-color);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family: var(--font);
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
