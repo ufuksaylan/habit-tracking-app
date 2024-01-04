@@ -32,7 +32,7 @@ This Habit-Tracking Web Application is designed to help users maintain and track
 - **Frontend:** Vue.js (Vue 3 with Composition API)
 - **Routing:** Vue Router
 - **Data Persistence:** localStorage
-- **Styling:** Custom CSS / UI Framework (if used)
+- **Styling:** Custom CSS 
 - **Code Quality:** ESLint, Prettier, Stylelint
 - **Build Tool:** Vite
 
